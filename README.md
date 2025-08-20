@@ -1,10 +1,10 @@
-# AI Travel Planner
+# Wanderly
 
 🚧 **Status: Early Development** 🚧  
 This project is in the early stages of development. Features, structure, and implementation details are subject to change.  
 
 ## Overview
-The **AI Travel Planner** is a web application that generates personalized travel itineraries using AI. It aims to help travelers save time by providing customized trip plans for solo, couple, or family trips.  
+**Wanderly** is a web application that generates personalized travel itineraries using AI. It aims to help travelers save time by providing customized trip plans for solo, couple, or family trips.  
 
 ## Features (Planned)
 - **User Accounts & Authentication** (JWT, OAuth with Google/GitHub)  
