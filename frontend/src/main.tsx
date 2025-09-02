@@ -13,6 +13,8 @@ declare module "@tanstack/react-router" {
 	}
 }
 
+import "@/providers/i18n/i18n";
+
 // Render the app
 // biome-ignore lint/style/noNonNullAssertion: react setup
 const rootElement = document.getElementById("root")!;

@@ -13,8 +13,8 @@ export default defineConfig({
 			generatedRouteTree: "./src/route-tree.gen.ts",
 			routeToken: "layout",
 		}),
-		tailwindcss(),
 		react(),
+		tailwindcss(),
 	],
 	resolve: {
 		alias: {
