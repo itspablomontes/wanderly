@@ -1,3 +1,4 @@
+import { HOME, HOME_PT_BR } from "@/features/home/i18n/content";
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
 
@@ -7,12 +8,12 @@ import { initReactI18next } from "react-i18next";
 const resources = {
 	en: {
 		translation: {
-			welcomeMessage: "Welcome to Wanderly",
+			home: HOME,
 		},
 	},
 	pt_br: {
 		translation: {
-			welcomeMessage: "Bem-vindo ao Wanderly!",
+			home: HOME_PT_BR,
 		},
 	},
 };
